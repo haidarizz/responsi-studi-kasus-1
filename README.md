@@ -1,8 +1,11 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : Muhammad Haidar Izzuddin  
+
 NIU : 460554
+
 Sesi : Sesi Jarkom 1 - MBKM (Selasa Pagi)
+
 Secret String : Python
 
 ## Checklist Responsi
